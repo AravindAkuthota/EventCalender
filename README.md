@@ -2,7 +2,13 @@
 
 A modern, intuitive event management system built with React and TypeScript. This application provides a comprehensive calendar interface for creating, managing, and organizing events with a clean, professional design.
 
-![Calendar Screenshot](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&q=80&w=2068)
+![Calendar Screenshot]
+
+![Screenshot 2025-01-10 204752](https://github.com/user-attachments/assets/0ad34507-ece1-426a-abad-e633f26c4bc7)
+
+![Screenshot 2025-01-10 204742](https://github.com/user-attachments/assets/f4b36b68-d937-45d7-b49a-e8e17fe4affe)
+
+
 
 ## Features
 
