@@ -76,23 +76,10 @@ A modern, intuitive event management system built with React and TypeScript. Thi
   - `useToast` for notifications
 - **Data Persistence**: Automatic saving of events
 
-### Development Tools
-- **Linting**: ESLint with TypeScript support
-- **Type Checking**: TypeScript compiler
-- **Code Formatting**: Prettier
-- **Development Server**: Vite dev server
-- **Module Resolution**: TypeScript path aliases
+
 
 ### Performance Optimizations
 - **Code Splitting**: Dynamic imports for modals
 - **Memoization**: React.memo for heavy components
 - **Efficient Rendering**: Optimized state updates
 - **Bundle Size**: Tree-shaking with Vite
-
-### Deployment
-- **Platform**: Static hosting (Netlify)
-- **Build Process**: Vite production build
-- **Asset Optimization**: 
-  - Minified JavaScript
-  - Optimized CSS
-  - Compressed assets
